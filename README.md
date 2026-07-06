@@ -158,7 +158,6 @@ Me chamo Lucas Rossi Pereira, tenho 17 anos e sou natural do Espiríto Santo. Co
 
 ### 📊 Estatísticas
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -174,5 +173,4 @@ Me chamo Lucas Rossi Pereira, tenho 17 anos e sou natural do Espiríto Santo. Co
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRossi-code&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
 
